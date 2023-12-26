@@ -13,4 +13,3 @@ I first got a very simple mission:
 The final result was [test.xlsx](https://github.com/jotamath/automaticemail/files/13768739/test.xlsx)
 and after that I sent him an automatic email using Python as well. 
 ![Só vim pegar a imagem (1)](https://github.com/jotamath/automaticemail/assets/131292471/aefc2863-286f-410e-b99e-35eb7b834fa8)
-
